@@ -10,7 +10,7 @@ import {
 } from "three/examples/jsm/loaders/GLTFLoader.js";
 import fragment from "./fragment.glsl";
 import vertex from "./vertex.glsl";
-// import * as dat from 'dat.gui'
+
 
 //Cursor
 const cursor = {
